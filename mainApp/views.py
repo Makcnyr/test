@@ -8,4 +8,4 @@ def index (request):
 
 
 def contact (request):
-    return render(request, 'mainApp/basic.html', {'values': ['Если у вас остались вопросы, то задавайте их мне по телефону', "8-922-462-61-09"]})
+    return render(request, 'mainApp/basic.html', {'values': [' любая инфа ', "номер мобильный и тд 49159735870957132051"]})
